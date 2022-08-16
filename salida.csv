@@ -1,0 +1,501 @@
+,Country,Age,Gender,Customer spendings
+0,Mexico,47,Agender,372
+1,Singapore,52,Bigender,203
+2,Turkey,32,Trans woman,185
+3,China,71,Bigender,315
+4,Indonesia,39,Transgender,141
+5,Pakistan,61,Nonbinary,410
+6,Austria,74,Trans man,246
+7,Belgium,84,Transgender,163
+8,France,80,Trans man,141
+9,Russian Federation,79,Trans woman,117
+10,United Kingdom,46,Transgender,583
+11,Chile,85,Trans woman,340
+12,Brazil,42,Agender,424
+13,Australia,33,Trans woman,163
+14,Norway,68,Genderfluid,28
+15,China,22,Bigender,307
+16,Pakistan,36,Trans woman,197
+17,Netherlands,84,Agender,262
+18,Philippines,84,Trans man,599
+19,Colombia,53,Transgender,103
+20,Canada,38,Agender,320
+22,Colombia,60,Two Spirit ,496
+23,Italy,45,Trans man,287
+24,Peru,35,Agender,431
+25,South Korea,64,Transgender,458
+26,Ireland,49,Trans woman,116
+27,Vietnam,55,Two Spirit ,94
+28,Canada,56,Nonbinary,27
+29,Italy,75,Genderfluid,336
+30,Austria,74,Trans man,159
+31,Brazil,31,Bigender,101
+32,India,77,Transgender,213
+33,Russian Federation,69,Bigender,137
+35,United States,34,Gender expansive,109
+36,Russian Federation,34,Nonbinary,105
+37,Norway,19,Agender,529
+38,Canada,59,Nonbinary,307
+39,United Kingdom,48,Bigender,402
+40,Spain,63,Agender,403
+42,Pakistan,28,Two Spirit ,294
+43,Nigeria,66,Nonbinary,80
+44,Nigeria,75,Gender expansive,41
+45,France,39,Genderfluid,386
+46,Spain,78,Bigender,576
+47,United States,28,Trans woman,386
+48,Costa Rica,63,Bigender,582
+49,Poland,67,Transgender,273
+50,Ukraine,22,Trans woman,501
+51,Indonesia,34,Two Spirit ,52
+52,Vietnam,51,Gender expansive,387
+53,Vietnam,68,Transgender,181
+54,Spain,33,Genderfluid,155
+55,South Africa,24,Two Spirit ,521
+56,Austria,29,Genderfluid,227
+57,Vietnam,42,Gender expansive,276
+58,Turkey,23,Nonbinary,538
+59,Mexico,39,Trans man,40
+60,Germany,45,Transgender,525
+61,Singapore,37,Cisgender ,236
+62,Norway,59,Genderfluid,314
+63,China,74,Nonbinary,550
+64,Mexico,73,Transgender,196
+65,Spain,84,Genderfluid,147
+66,Brazil,62,Nonbinary,342
+67,Chile,31,Gender expansive,465
+68,Colombia,55,Trans woman,253
+69,Canada,41,Genderfluid,437
+70,Peru,32,Cisgender ,360
+71,Sweden,32,Cisgender ,397
+72,Colombia,79,Bigender,442
+73,Singapore,69,Bigender,369
+74,New Zealand,83,Bigender,506
+75,United Kingdom,54,Gender expansive,451
+76,United States,38,Cisgender ,53
+77,India,77,Trans man,12
+78,Netherlands,44,Trans man,571
+79,Norway,39,Cisgender ,500
+80,New Zealand,34,Bigender,148
+81,Poland,38,Transgender,134
+82,Indonesia,56,Genderfluid,372
+83,Indonesia,28,Nonbinary,87
+84,United Kingdom,60,Two Spirit ,582
+85,Ukraine,71,Cisgender ,118
+86,Germany,74,Two Spirit ,87
+87,Philippines,54,Agender,289
+88,Italy,72,Bigender,566
+89,Germany,27,Two Spirit ,138
+90,Nigeria,78,Trans man,485
+91,Ukraine,31,Bigender,216
+92,Australia,65,Agender,398
+93,France,73,Trans man,46
+94,United Kingdom,50,Transgender,45
+95,Colombia,79,Genderfluid,489
+96,Russian Federation,72,Transgender,239
+97,Ireland,47,Genderfluid,280
+98,Mexico,47,Trans woman,330
+99,Ukraine,51,Genderfluid,534
+100,Turkey,42,Trans man,67
+101,Australia,57,Gender expansive,428
+102,South Korea,50,Genderfluid,192
+103,Norway,84,Two Spirit ,128
+104,India,52,Transgender,533
+105,Peru,28,Cisgender ,168
+106,South Africa,34,Gender expansive,493
+107,United Kingdom,31,Gender expansive,198
+108,Nigeria,64,Cisgender ,183
+109,Turkey,71,Two Spirit ,233
+110,Ireland,79,Trans woman,131
+111,Ireland,67,Bigender,513
+112,Canada,44,Agender,529
+113,Indonesia,32,Gender expansive,138
+114,Ukraine,24,Agender,135
+115,South Korea,72,Nonbinary,265
+116,India,31,Bigender,64
+117,Nigeria,55,Transgender,124
+118,Ukraine,41,Nonbinary,135
+119,New Zealand,19,Two Spirit ,331
+120,Turkey,77,Two Spirit ,92
+121,Vietnam,35,Two Spirit ,591
+122,Belgium,40,Transgender,465
+123,Brazil,25,Agender,505
+124,United Kingdom,63,Cisgender ,30
+125,Italy,84,Transgender,32
+126,Nigeria,38,Bigender,173
+127,Brazil,49,Gender expansive,432
+128,Spain,84,Trans man,445
+129,South Africa,22,Two Spirit ,65
+130,Turkey,69,Transgender,507
+131,France,38,Transgender,166
+132,Austria,28,Genderfluid,223
+133,Philippines,33,Bigender,177
+134,Ireland,66,Nonbinary,121
+135,Netherlands,23,Nonbinary,75
+136,Chile,77,Gender expansive,587
+137,Colombia,45,Genderfluid,442
+138,Peru,83,Transgender,344
+139,South Africa,85,Bigender,50
+140,Sweden,19,Trans woman,595
+141,New Zealand,36,Gender expansive,5
+142,Singapore,31,Agender,173
+143,Austria,69,Bigender,463
+144,Indonesia,62,Transgender,411
+145,Nigeria,73,Nonbinary,30
+146,Nigeria,65,Bigender,424
+147,Costa Rica,48,Bigender,584
+148,Singapore,65,Transgender,513
+149,Australia,44,Transgender,409
+150,China,39,Genderfluid,318
+151,Pakistan,78,Nonbinary,79
+152,Indonesia,67,Genderfluid,51
+153,Ukraine,63,Agender,229
+154,Pakistan,49,Cisgender ,561
+155,Austria,23,Nonbinary,87
+156,Peru,35,Trans woman,217
+157,Nigeria,72,Gender expansive,292
+158,Peru,66,Genderfluid,78
+159,Singapore,62,Cisgender ,299
+160,Pakistan,33,Bigender,50
+161,Germany,81,Nonbinary,128
+162,South Korea,62,Genderfluid,490
+163,Colombia,23,Nonbinary,419
+164,India,47,Cisgender ,143
+165,Singapore,69,Gender expansive,93
+166,China,78,Cisgender ,423
+167,Australia,77,Trans woman,451
+168,Canada,58,Trans man,387
+169,Canada,21,Trans woman,533
+170,Mexico,24,Nonbinary,146
+171,Singapore,36,Agender,235
+172,Singapore,25,Nonbinary,462
+173,Philippines,77,Two Spirit ,118
+174,India,39,Trans woman,113
+175,Pakistan,73,Nonbinary,374
+176,Vietnam,22,Nonbinary,566
+177,Indonesia,27,Trans man,48
+178,Brazil,33,Trans man,447
+179,Singapore,44,Trans man,99
+180,Germany,31,Transgender,592
+181,Belgium,61,Bigender,560
+182,Peru,63,Transgender,147
+183,South Africa,73,Trans woman,298
+184,Colombia,51,Genderfluid,279
+185,United States,51,Bigender,76
+186,Brazil,77,Bigender,566
+187,Colombia,53,Gender expansive,472
+188,Ukraine,18,Nonbinary,147
+189,Sweden,23,Cisgender ,451
+190,New Zealand,44,Two Spirit ,16
+191,Russian Federation,30,Gender expansive,332
+192,China,52,Nonbinary,389
+193,Poland,48,Bigender,321
+194,Italy,62,Bigender,237
+195,Sweden,78,Trans woman,88
+196,Austria,60,Genderfluid,217
+197,Australia,44,Agender,89
+198,Netherlands,33,Agender,291
+199,Canada,61,Trans woman,223
+200,Sweden,65,Gender expansive,211
+201,Pakistan,75,Agender,71
+202,Vietnam,40,Genderfluid,406
+203,Colombia,64,Cisgender ,1
+204,Philippines,73,Genderfluid,414
+205,Austria,34,Transgender,525
+206,New Zealand,33,Two Spirit ,435
+207,Germany,18,Genderfluid,197
+208,China,44,Transgender,217
+209,Poland,39,Two Spirit ,366
+210,Netherlands,19,Two Spirit ,299
+211,Costa Rica,32,Nonbinary,171
+212,Ukraine,55,Agender,102
+213,Germany,37,Transgender,462
+214,Pakistan,72,Nonbinary,542
+215,Ukraine,79,Genderfluid,514
+216,Canada,77,Genderfluid,69
+217,Turkey,23,Trans woman,4
+218,Poland,69,Transgender,262
+219,Germany,63,Bigender,289
+220,France,30,Transgender,98
+221,Mexico,49,Nonbinary,212
+222,Norway,58,Gender expansive,183
+223,Ukraine,77,Trans woman,456
+224,Costa Rica,47,Cisgender ,522
+225,Pakistan,20,Nonbinary,170
+226,Pakistan,31,Transgender,98
+227,Netherlands,76,Trans man,55
+228,Singapore,41,Transgender,361
+229,Norway,57,Genderfluid,55
+230,Belgium,29,Cisgender ,276
+231,United States,36,Two Spirit ,56
+232,Ireland,34,Trans man,503
+233,Spain,49,Trans woman,595
+234,Pakistan,80,Genderfluid,527
+235,Colombia,80,Trans man,258
+236,Pakistan,55,Genderfluid,305
+237,Italy,62,Trans woman,434
+238,Belgium,85,Genderfluid,15
+239,South Africa,76,Agender,417
+240,Poland,78,Two Spirit ,304
+241,Netherlands,60,Gender expansive,516
+242,Peru,68,Gender expansive,75
+243,United Kingdom,48,Trans man,80
+244,Germany,60,Agender,220
+245,Mexico,76,Nonbinary,598
+246,Austria,40,Trans man,140
+247,Norway,25,Genderfluid,233
+248,Chile,37,Cisgender ,577
+249,Nigeria,70,Nonbinary,314
+250,Mexico,68,Trans man,302
+251,Costa Rica,43,Two Spirit ,283
+252,France,67,Transgender,105
+253,United Kingdom,52,Nonbinary,177
+254,Philippines,51,Bigender,4
+255,New Zealand,39,Bigender,536
+256,United Kingdom,50,Trans man,547
+257,Peru,53,Bigender,255
+258,Peru,67,Cisgender ,143
+259,Russian Federation,65,Two Spirit ,321
+260,Brazil,24,Genderfluid,244
+261,Austria,66,Two Spirit ,176
+262,Italy,76,Transgender,378
+263,Ireland,28,Trans woman,43
+264,South Korea,27,Two Spirit ,546
+265,Austria,39,Bigender,95
+266,Turkey,51,Genderfluid,557
+267,Peru,59,Bigender,520
+268,Turkey,40,Agender,26
+269,China,82,Genderfluid,431
+270,Philippines,52,Two Spirit ,184
+271,Netherlands,85,Trans man,220
+272,Belgium,84,Two Spirit ,429
+273,Russian Federation,82,Gender expansive,289
+274,Mexico,53,Bigender,537
+275,Nigeria,82,Transgender,364
+276,United Kingdom,38,Agender,577
+278,Netherlands,61,Gender expansive,414
+279,Brazil,63,Two Spirit ,418
+280,Poland,18,Two Spirit ,79
+281,Vietnam,28,Trans woman,183
+282,Mexico,80,Bigender,217
+283,Nigeria,70,Trans man,261
+284,Turkey,83,Agender,233
+285,Norway,83,Genderfluid,133
+286,South Africa,28,Genderfluid,590
+287,Netherlands,43,Agender,485
+288,Belgium,39,Nonbinary,123
+289,Brazil,29,Transgender,371
+290,Spain,49,Cisgender ,81
+291,France,26,Genderfluid,396
+292,Italy,46,Transgender,128
+293,Germany,84,Agender,145
+294,Turkey,39,Agender,77
+295,Norway,34,Trans man,466
+296,Brazil,49,Genderfluid,18
+297,Singapore,25,Agender,402
+298,Peru,85,Two Spirit ,599
+299,Netherlands,82,Nonbinary,324
+300,Vietnam,18,Transgender,355
+301,Ireland,53,Gender expansive,160
+302,Peru,31,Two Spirit ,359
+303,Chile,24,Bigender,591
+304,Chile,22,Transgender,298
+305,New Zealand,42,Trans man,372
+306,Nigeria,21,Two Spirit ,300
+307,India,53,Trans woman,550
+308,Spain,71,Genderfluid,349
+309,Australia,37,Trans man,379
+310,Pakistan,63,Agender,153
+311,Turkey,64,Two Spirit ,454
+312,Pakistan,37,Gender expansive,235
+313,Turkey,33,Trans woman,569
+314,Chile,83,Two Spirit ,53
+315,Australia,54,Genderfluid,337
+316,Philippines,69,Genderfluid,557
+317,Norway,19,Gender expansive,472
+318,South Africa,73,Bigender,445
+319,Colombia,53,Transgender,163
+320,Mexico,78,Genderfluid,489
+321,Netherlands,51,Trans woman,139
+322,South Korea,42,Nonbinary,288
+323,France,70,Cisgender ,461
+324,Pakistan,81,Nonbinary,246
+325,Austria,63,Cisgender ,335
+326,Australia,36,Trans woman,494
+327,Sweden,31,Trans woman,512
+328,France,72,Two Spirit ,5
+329,China,52,Genderfluid,257
+330,Nigeria,67,Genderfluid,492
+331,New Zealand,26,Trans woman,389
+332,South Africa,31,Trans woman,356
+333,Turkey,75,Cisgender ,159
+334,Sweden,59,Cisgender ,380
+335,Pakistan,73,Trans woman,504
+336,United States,19,Agender,27
+337,Nigeria,24,Nonbinary,79
+338,Spain,21,Two Spirit ,193
+339,Germany,83,Trans man,152
+340,New Zealand,23,Trans woman,493
+341,Australia,69,Transgender,390
+342,Germany,84,Trans man,340
+343,Turkey,52,Gender expansive,559
+344,Ireland,80,Trans woman,520
+345,Germany,18,Trans woman,216
+346,India,57,Nonbinary,33
+347,Italy,30,Bigender,197
+348,United States,20,Cisgender ,295
+349,Russian Federation,44,Transgender,523
+350,Nigeria,84,Trans man,64
+351,Sweden,25,Nonbinary,541
+352,Italy,64,Two Spirit ,252
+353,Austria,35,Bigender,130
+354,Belgium,41,Nonbinary,505
+355,Norway,32,Trans man,282
+356,Poland,78,Bigender,145
+357,Indonesia,73,Bigender,533
+358,United States,55,Nonbinary,106
+359,Indonesia,49,Genderfluid,3
+360,South Korea,39,Trans man,168
+361,Italy,79,Transgender,5
+362,Colombia,75,Agender,586
+363,Netherlands,48,Bigender,368
+364,Philippines,46,Genderfluid,99
+365,Russian Federation,69,Gender expansive,406
+366,Indonesia,72,Gender expansive,128
+367,China,34,Trans woman,527
+368,Belgium,83,Trans man,11
+369,Vietnam,38,Genderfluid,103
+370,Peru,38,Agender,356
+371,Ukraine,33,Trans woman,54
+372,South Africa,57,Bigender,423
+373,Pakistan,35,Agender,407
+374,Mexico,53,Two Spirit ,201
+375,Austria,70,Transgender,438
+376,Sweden,32,Two Spirit ,70
+377,Vietnam,58,Transgender,416
+378,Italy,67,Transgender,125
+379,Chile,20,Agender,442
+380,Italy,32,Gender expansive,154
+381,Peru,45,Genderfluid,189
+382,Peru,26,Genderfluid,313
+383,China,64,Trans man,430
+384,Belgium,77,Cisgender ,471
+385,Sweden,80,Transgender,166
+386,Norway,60,Transgender,119
+387,Australia,83,Bigender,578
+388,Poland,25,Cisgender ,229
+389,Singapore,44,Nonbinary,90
+390,Philippines,76,Transgender,596
+391,India,52,Trans woman,190
+392,United States,40,Bigender,504
+393,Brazil,50,Bigender,333
+394,Turkey,44,Transgender,3
+396,Indonesia,50,Nonbinary,212
+397,Mexico,61,Transgender,425
+398,Chile,67,Transgender,165
+399,United Kingdom,43,Transgender,489
+400,Spain,28,Bigender,322
+401,New Zealand,67,Bigender,284
+402,Indonesia,29,Two Spirit ,5
+403,United States,19,Nonbinary,235
+404,South Korea,45,Two Spirit ,19
+405,China,55,Agender,500
+406,South Africa,43,Bigender,273
+407,Austria,40,Trans man,115
+408,Sweden,64,Agender,444
+409,United States,59,Trans woman,73
+410,France,43,Trans woman,549
+411,Austria,67,Cisgender ,241
+412,Philippines,47,Trans man,27
+413,Netherlands,73,Agender,557
+414,Norway,67,Two Spirit ,213
+415,Colombia,42,Two Spirit ,432
+416,United States,80,Genderfluid,422
+417,Singapore,41,Genderfluid,14
+418,Ukraine,59,Bigender,34
+419,New Zealand,55,Genderfluid,486
+420,China,83,Transgender,541
+421,Pakistan,52,Gender expansive,483
+422,Australia,61,Trans woman,326
+423,Chile,44,Gender expansive,484
+424,Australia,18,Cisgender ,279
+425,Chile,82,Gender expansive,509
+426,United Kingdom,26,Bigender,128
+427,New Zealand,83,Nonbinary,348
+428,Peru,53,Bigender,65
+429,India,21,Two Spirit ,31
+430,Vietnam,56,Cisgender ,474
+431,Costa Rica,29,Cisgender ,180
+432,Turkey,29,Trans man,190
+433,Costa Rica,56,Nonbinary,328
+434,South Korea,71,Agender,154
+435,Poland,57,Nonbinary,200
+436,United Kingdom,72,Nonbinary,364
+437,Austria,75,Agender,470
+438,Peru,47,Transgender,516
+439,Mexico,20,Bigender,3
+440,Nigeria,83,Transgender,73
+441,Singapore,69,Cisgender ,158
+442,Sweden,38,Trans woman,339
+443,Mexico,83,Two Spirit ,263
+444,United States,80,Trans woman,185
+445,South Korea,73,Transgender,382
+446,Australia,71,Agender,243
+447,Nigeria,37,Nonbinary,13
+448,South Korea,83,Gender expansive,103
+449,United Kingdom,61,Trans man,478
+450,Italy,69,Trans woman,591
+451,Brazil,43,Trans man,309
+452,Mexico,55,Two Spirit ,597
+453,South Africa,24,Genderfluid,332
+454,Belgium,48,Transgender,578
+455,Ireland,75,Gender expansive,189
+456,Norway,62,Cisgender ,569
+457,Australia,24,Genderfluid,456
+458,United States,31,Trans woman,277
+459,South Korea,64,Trans woman,185
+460,Philippines,47,Two Spirit ,410
+461,Nigeria,33,Genderfluid,318
+462,Peru,56,Bigender,321
+463,Sweden,46,Two Spirit ,115
+464,South Africa,72,Genderfluid,372
+465,Brazil,75,Trans woman,193
+466,Germany,76,Trans man,262
+467,Poland,40,Transgender,168
+468,Peru,69,Trans woman,50
+469,Mexico,56,Trans woman,126
+470,South Africa,38,Transgender,219
+471,Ukraine,34,Cisgender ,485
+472,Spain,67,Agender,62
+473,Ireland,80,Trans man,227
+474,Peru,31,Nonbinary,309
+475,Nigeria,42,Trans man,44
+476,Norway,77,Agender,89
+477,South Korea,38,Trans man,300
+478,Chile,31,Bigender,174
+479,Chile,38,Agender,407
+480,Australia,81,Two Spirit ,586
+481,Poland,49,Genderfluid,400
+482,Ukraine,70,Cisgender ,347
+483,Costa Rica,22,Genderfluid,252
+484,China,19,Gender expansive,389
+485,South Korea,46,Two Spirit ,553
+486,Australia,51,Trans woman,201
+487,Spain,65,Trans woman,571
+488,United States,45,Cisgender ,492
+489,Sweden,23,Transgender,500
+490,Pakistan,19,Nonbinary,296
+492,Australia,49,Genderfluid,96
+493,Ukraine,68,Agender,236
+494,Germany,77,Genderfluid,310
+495,Turkey,78,Cisgender ,223
+496,Australia,27,Two Spirit ,4
+497,Chile,43,Trans man,332
+498,Belgium,73,Trans woman,397
+499,Ukraine,61,Trans woman,474
+500,Russian Federation,50,Gender expansive,405
+501,Sweden,21,Trans woman,350
+502,Pakistan,61,Agender,68
+504,India,81,Agender,308
+505,United Kingdom,30,Transgender,587
+506,Russian Federation,38,Trans man,357
